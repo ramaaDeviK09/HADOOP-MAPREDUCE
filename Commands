@@ -1,0 +1,12 @@
+ 984  hadoop fs -copyFromLocal /home/edureka/Desktop/Emma_Watson.txt /ramaadevi
+  985  hadoop jar hadoop-mapreduce-examples-2.2.0.jar
+  986  hadoop jar hadoop-mapreduce-examples-2.2.0.jar wordcount ramaadevi/Emma_Watson.txt ramaadevi/Mapreduce/Wordcount
+  987  hadoop jar hadoop-mapreduce-examples-2.2.0.jar wordcount /ramaadevi/Emma_Watson.txt ramaadevi/Mapreduce/Wordcount
+  988  hadoop jar hadoop-mapreduce-examples-2.2.0.jar wordmean /ramaadevi/Emma_Watson.txt ramaadevi/Mapreduce/Wordmean
+  989  hadoop jar hadoop-mapreduce-examples-2.2.0.jar wordmedian /ramaadevi/Emma_Watson.txt ramaadevi/Mapreduce/Wordmedian
+  990  hadoop jar hadoop-mapreduce-examples-2.2.0.jar wordstandarddeviation /ramaadevi/Emma_Watson.txt ramaadevi/Mapreduce/Wordstandarddeviationh
+  992  hadoop jar hadoop-mapreduce-examples-2.2.0.jar wordcount ramaadevi/Emma_Watson.txt ramaadevi/Wordcount
+  993  hadoop jar hadoop-mapreduce-examples-2.2.0.jar wordcount ramaadevi/Emma_Watson.txt /ramaadevi/Wordcount
+  994  hadoop jar hadoop-mapreduce-examples-2.2.0.jar wordcount /ramaadevi/Emma_Watson.txt /ramaadevi/Wordcount
+  
+
